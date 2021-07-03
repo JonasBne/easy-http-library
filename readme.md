@@ -1,7 +1,7 @@
 ## Description
 
-An easy HTTP library developed with ES6 classes, fetch API and async/await. 
-The Skeleton boilerplate is used for styling.
+An easy HTTP library to perform HTTP requests. 
+
 
 
 ## Installation
